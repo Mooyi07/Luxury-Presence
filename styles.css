@@ -11,12 +11,11 @@
 main {
   background-image: 
     linear-gradient(to bottom, rgba(13, 19, 56, 0.905) 0%, rgba(13, 19, 56, 0.905) 100%),
-    url("bg-image.webp");
+    url("img/bg-image.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
-
 
 .marci-color {
   color: white;
